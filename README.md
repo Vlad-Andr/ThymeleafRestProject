@@ -1,1 +1,1 @@
-# ThymeleafRestProject
+# REST-ThymeleafProject
